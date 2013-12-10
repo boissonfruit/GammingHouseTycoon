@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="GamingHouseTycoon/ressources/librairies/lwjgl/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ressources/librairies/slick/ibxm.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/jinput.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/jnlp.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/lwjgl.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/natives-linux.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/natives-mac.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/natives-windows.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/slick-examples.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/slick.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/slick/tinylinepp.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/jinput.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="ressources/librairies/lwjgl/lzma.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
